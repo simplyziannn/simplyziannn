@@ -16,7 +16,7 @@ Hello! I’m **Zi An**, currently a final-year Computer Engineering student at N
 
 I build systems that turn the word AI into **real, production-ready systems**.
 
-🔭 **Currently building:**  
+📡 **Leading development of:**  
 An **LLM-powered WhatsApp Business automation platform** helping SMEs automate customer service using:
 
 - Retrieval-Augmented Generation (RAG)  
@@ -25,7 +25,7 @@ An **LLM-powered WhatsApp Business automation platform** helping SMEs automate c
 - Postgres persistence  
 - Scalable deployment infrastructure  
 
-🌱 **Currently deepening my knowledge in:**
+🔬 **Areas of Focus:**
 
 - AI system design  
 - Model orchestration  
@@ -38,7 +38,7 @@ Reduce manual workload.
 Increase operational efficiency.  
 Ship systems that create measurable business impact.
 
-⚡ **Fun fact:**  
+❤️‍🔥 **My passion:**  
 I enjoy automating workflows so we can focus on what actually matters 😆
 
 ---
@@ -51,6 +51,9 @@ I enjoy automating workflows so we can focus on what actually matters 😆
 </a>
 <a href="mailto:leezian44@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/simplyziannn">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
